@@ -21,9 +21,9 @@ public class WebSecurityConfig {
         @Bean
         public SecurityFilterChain filterChain(HttpSecurity http) throws Exception {
                 http.authorizeHttpRequests((authz) -> authz
-                .requestMatchers("/api/home/**").permitAll()
-                .anyRequest().authenticated())
-                .formLogin();
+                .requestMatchers("/").permitAll() // Permitir acesso ao caminho raiz sem autenticação
+                .anyRequest().hasRole("USER")) // Exigir autenticação com a role "USER" para qualquer outro caminho
+                .formLogin(); // Configurar login baseado em formulário
                 return http.build();
         }
 
