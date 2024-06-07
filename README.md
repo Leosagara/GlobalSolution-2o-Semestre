@@ -24,7 +24,7 @@ Este é um projeto que tem como intuito utilizar drones submarinos implantados c
   - `thymeleaf-extras-springsecurity6`: Integração de Thymeleaf com Spring Security.
 
 - **Banco de Dados**:
-  - `h2database:h2`: Banco de dados em memória para desenvolvimento e testes.
+  - `SQL Server`.
 
 - **Lombok**:
   - `org.projectlombok:lombok`: Biblioteca para reduzir boilerplate de código Java (anotado como opcional).
