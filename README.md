@@ -1,5 +1,12 @@
 # 🌐 **Ocean | Guarg - Global Solution 2024**
 
+## **Integrantes**
+- Ayslan Andrew Blanco Ricciardi Garcia, RM: 96841
+- Leonardo Kurokawa Sagara, RM: 96934
+- Matheus Oliveira dos Santos, RM: 96543
+- Paulo Roberto Maldonado da Silva Gottardi, RM: 96877
+- Pedro Henrique Kokuba, RM: 96604
+
 ## **Descrição**
 Este é um projeto que tem como intuito utilizar drones submarinos implantados com inteligência artificial em suas câmeras, capazes de fazer o reconhecimento e o mapeamento do lixo presente em reservas de água (mar,rios e lagoas), disponibilizando em um site estas informações para que terceriros(Governos, ONGs, e voluntários) possam fazer a retirada dos dejetos.    
 
