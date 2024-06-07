@@ -45,7 +45,7 @@ Este é um projeto que tem como intuito utilizar drones submarinos implantados c
 - Clone este repositório do Github
 
 ## **Instruções**
-Após executar o projeto, abrir no navegador na URL `localhost:9090/api/home`, para navegar entre os outros endpoints será necessário fazer o login em um usuário válido, inserir username: `user` e password: `password`.
+Após executar o projeto, abrir no navegador na URL `localhost:9090/`, para navegar entre os outros endpoints será necessário fazer o login em um usuário válido, inserir username: `user` e password: `password`.
 
 ## **Documentação da API**
 
